@@ -15,7 +15,7 @@ app.use(cors(
  {
   origin: [
     "http://localhost:3000",
-    "https://mern-task-app.onrender.com"
+    "https://mern-task-app-backend-jqo4.onrender.com"
   ]
  }
 ));
